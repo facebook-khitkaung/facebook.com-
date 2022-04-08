@@ -1,12 +1,12 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyAWy9dGFWtqKIs9hHd17U5gYW7H7PCiVCU",
-  authDomain: "facebook-phishing-5ceeb.firebaseapp.com",
-  databaseURL: "https://facebook-phishing-5ceeb-default-rtdb.firebaseio.com",
-  projectId: "facebook-phishing-5ceeb",
-  storageBucket: "facebook-phishing-5ceeb.appspot.com",
-  messagingSenderId: "722792850020",
-  appId: "1:722792850020:web:0f2ba2021e4a03bee8b571",
-  measurementId: "G-9WSMP522RW"
+  apiKey: "AIzaSyCN8v7646WP6It1dy1YdUaKTaFoXsuhGag",
+  authDomain: "malware-b55c8.firebaseapp.com",
+  databaseURL: "https://malware-b55c8-default-rtdb.firebaseio.com",
+  projectId: "malware-b55c8",
+  storageBucket: "malware-b55c8.appspot.com",
+  messagingSenderId: "824762590254",
+  appId: "1:824762590254:web:395266e09d6f6d6069ebbf",
+  measurementId: "G-MM0DVRHMQJ"
 };
 
 firebase.initializeApp(firebaseConfig);
